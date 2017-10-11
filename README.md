@@ -18,8 +18,8 @@ Open browser; goto localhost/management and press enter:
 
 The login screen will appear.
 
-To login, I am going to provide the user-email ids and password below.
-email : test.tester@testing.com
+To login, I am going to provide the user-name ids and password below.
+username : superadmin
 
 password : 123456
 Once you logged in with System Administrator account, you can create user or edit previous user if you want.
